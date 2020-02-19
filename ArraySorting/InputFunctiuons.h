@@ -1,0 +1,2 @@
+int InputFirstNumber();
+int InputSecondNumber();
